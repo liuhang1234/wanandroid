@@ -8,7 +8,7 @@ public class ModuleLifecycleReflexs {
 
     public static final String BASE_INIT = "c.lh.library_base.base.BaseModuleInit";
     // 首页博文
-    public static final String MAIN_INIT = "c.lh.main.moduleInit";
+    public static final String MAIN_INIT = "c.lh.library_main.MainModuleInit";
     // 项目
     public static final String PROJECT_INIT = "c.lh.project.module.init";
     //公众号
