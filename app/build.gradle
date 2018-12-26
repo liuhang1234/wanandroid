@@ -51,8 +51,9 @@ dependencies {
     if (isBuildModule.toBoolean()){
         implementation project(':library-base')
     } else {
-        //首页
+        // 主界面
         implementation project(':library-home')
+        // 主页
         implementation project(':library-main')
         // 我的
         implementation project(':library-my')
